@@ -17,7 +17,7 @@ The data is simply stored in a grossy big object composed of the following prope
 You can also add a category by adding a root property to content. Be carefull the display name is the key directly (I know...).
 You can make pull request directly to the file named `content.js` under `src/content.js`.
 
-### Project setup
+# Project setup
 
 ```
 yarn install
