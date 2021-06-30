@@ -5,7 +5,7 @@
       I there, I am <a href="https://www.linkedin.com/in/arnaud-aubry-74928730/" target="_blank">Arnaud Aubry</a>. 
       During my life as a CTO I found it difficult to be always on top of important topics.
       This is why I built a CTO checklist. It is here to help CTO's handling the right thing at the right time. 
-      It is far from exhaustive as each company has its own struggles. If you want to contribute go and check <a hreh="https://github.com/foOg/autopilot">the github project</a>. 
+      It is far from exhaustive as each company has its own struggles. If you want to contribute go and check <a href="https://github.com/foOg/autopilot">the github project</a>. 
       The worldwide CTO community would thank you ;)
     </p>
     <div class="border"></div>
@@ -31,7 +31,7 @@
     <div class="border"></div>
     <h3>Want to contribute ?</h3>
     <p>
-      Go and check <a hreh="https://github.com/foOg/autopilot">the github project</a> to add your items to the list. 
+      Go and check <a href="https://github.com/foOg/autopilot">the github project</a> to add your items to the list. 
     Don't hesitate to widely share this to your CTO friends. If it is not useful to you it might be for a rookie :)
     </p>
   </div>
@@ -72,6 +72,9 @@ body {
 h2 {
   font-size: 18px;
   font-weight: lighter;
+  padding: 0 12px 0 12px;
+}
+h1, h3, p {
   padding: 0 12px 0 12px;
 }
 button {
